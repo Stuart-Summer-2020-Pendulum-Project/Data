@@ -1,0 +1,4 @@
+CSV files of raw data
+and python scripts used to extract data
+internal data indicates i2c component is contained in pendulum 
+external indicates i2c component is outside of pendulum
